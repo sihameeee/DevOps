@@ -49,4 +49,3 @@ index 48f82e9..acfa3a1 100644
 
 
 la difference entre git diff et git diff --staged est que git diff nous donne la difference dans un fichier entre la version commited et la version qui n'est pas commited and we didn't even add it with git add et pour git diff--staged show us the difference between the commited changes and the changes that are in the staging erea like we add it with git add but we didn't do the commit yet
-Temporary change
